@@ -1,5 +1,12 @@
 # [TheLook E-commerce Dashboard](https://lookerstudio.google.com/reporting/4f400ea8-3920-47c1-a437-b47fae012e71)
 
+<div align="center">
+    <img src="https://github.com/rhamdansyahrulm/Thelook_dashboard_looker/assets/141615487/2e1e235d-2fad-472a-9894-169c1dbfab5b" alt="Ecuador's Store Dashboard" width="45%">
+  <a href="https://public.tableau.com/views/EcuadorsStoreSales/products?:language=en-US&:display_count=n&:origin=viz_share_link">
+    <img src="https://github.com/rhamdansyahrulm/Thelook_dashboard_looker/assets/141615487/2e1e235d-2fad-472a-9894-169c1dbfab5b" alt="Ecuador's Store Dashboard" width="45%">
+  </a>
+</div>
+
 <b>TheLook E-commerce Dashboard</b> is a GitHub repository housing a Looker dashboard configuration utilizing public data from Google BigQuery for the "thelook_ecommerce" dataset. The dashboard includes two pages: one for order data and another for customer data, offering insights and analytics for effective data exploration. In creating this dashboard using the available dataset, several tables are utilized, including:
 
 ## **1. Order Item**
