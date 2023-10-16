@@ -1,1 +1,2 @@
-# [TheLook E-commerce Dashboard]([https://public.tableau.com/views/EcuadorStoreSales/Home2?:language=en-US&:display_count=n&:origin=viz_share_link](https://lookerstudio.google.com/reporting/4f400ea8-3920-47c1-a437-b47fae012e71)https://lookerstudio.google.com/reporting/4f400ea8-3920-47c1-a437-b47fae012e71)
+# [TheLook E-commerce Dashboard](https://lookerstudio.google.com/reporting/4f400ea8-3920-47c1-a437-b47fae012e71)
+)
