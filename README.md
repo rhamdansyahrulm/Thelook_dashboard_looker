@@ -3,7 +3,7 @@
 <div align="center">
     <img src="https://github.com/rhamdansyahrulm/Thelook_dashboard_looker/assets/141615487/2e1e235d-2fad-472a-9894-169c1dbfab5b" alt="Ecuador's Store Dashboard" width="45%">
   <a href="https://public.tableau.com/views/EcuadorsStoreSales/products?:language=en-US&:display_count=n&:origin=viz_share_link">
-    <img src="https://github.com/rhamdansyahrulm/Thelook_dashboard_looker/assets/141615487/2e1e235d-2fad-472a-9894-169c1dbfab5b" alt="Ecuador's Store Dashboard" width="45%">
+    <img src="https://github.com/rhamdansyahrulm/Thelook_dashboard_looker/assets/141615487/711ee93d-6a6e-4b05-9551-10dd23d14233" alt="Ecuador's Store Dashboard" width="45%">
   </a>
 </div>
 
