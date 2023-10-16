@@ -1,2 +1,1 @@
-# Thelook_dashboard_looker
-GitHub repository housing a Looker dashboard configuration utilizing public data from Google BigQuery for the "thelook_ecommerce" dataset. The dashboard includes two pages: one for order data and another for customer data, offering insights and analytics for effective data exploration.
+# [TheLook E-commerce Dashboard]([https://public.tableau.com/views/EcuadorStoreSales/Home2?:language=en-US&:display_count=n&:origin=viz_share_link](https://lookerstudio.google.com/reporting/4f400ea8-3920-47c1-a437-b47fae012e71)https://lookerstudio.google.com/reporting/4f400ea8-3920-47c1-a437-b47fae012e71)
